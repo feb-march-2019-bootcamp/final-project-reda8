@@ -163,9 +163,9 @@
     }
 @media only screen and (max-width: 767px){
   .navigation-background {
-    height: 5rem;
-    width: 5rem;
-    top: 5.5rem;
+    height: 4.5rem;
+    width: 4.5rem;
+    top: 5.7rem;
     right: 4.5rem;
   }
   .navigation-button {
@@ -225,10 +225,10 @@
 }
   @media only screen and (max-width: 600px) {
     .navigation-background {
-      height: 5rem;
-      width: 5rem;
+      height: 4.5rem;
+      width: 4.5rem;
       top: 5.5rem;
-      right: 3.5rem;
+      right: 3.7rem;
     }
     .navigation-button {
       height: 5.5rem;
@@ -289,9 +289,9 @@
  
 @media only screen and (max-width: 480px){
   .navigation-background {
-    height: 5rem;
-    width: 5rem;
-    top: 5.5rem;
+    height: 4.5rem;
+    width: 4.5rem;
+    top: 5.7rem;
     right: 3.5rem;
   }
   .navigation-button {
